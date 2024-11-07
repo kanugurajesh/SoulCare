@@ -58,6 +58,10 @@ With Clerk authentication, data control, and powerful tools, SoulCare is here to
 
 Figma :- https://www.figma.com/board/qJaNHzZSG67DpXKmUyA18g/Soul-Care?node-id=0-1&node-type=canvas&t=WpnqtOLWCOzR4tnd-0
 
+# App Features
+
+[HC_08.pptx](https://github.com/user-attachments/files/17661941/HC_08.pptx)
+
 # Hackathon Certificate
 
 ![vjit](https://github.com/user-attachments/assets/a9bc380b-83d0-4c50-890b-e70bf2e112fc)
