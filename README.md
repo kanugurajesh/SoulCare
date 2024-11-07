@@ -9,7 +9,7 @@ The below is the proof that this is my own project which I build from scratch an
 ![Screenshot 2024-10-30 080912](https://github.com/user-attachments/assets/32ac7ec0-d8ea-49d3-aadd-5c8a90b21fed)
 ![Screenshot 2024-10-30 080940](https://github.com/user-attachments/assets/c3d38dda-3e8a-4989-90ee-30911d4ca647)
 
-# 🌟 SoulCare - Your Companion in Health & Well-being 🌟
+# 🌟 SoulCare - Your Companion in Health & Well-being
 
 SoulCare is a mental health app that leverages advanced NLP to analyze social media sentiment, track health symptoms, and offer real-time support through AI, personalized reports, and a CBT bot. It provides secure authentication, professional resources, and gamified features to enhance user engagement and ensure timely intervention for severe cases. It also provides correct and valid information related to healthcare You can also upload you health documents and query over them as much as needed. You can also upload youtube video and ask questions related to it. It also has a feature which prioritized users based on worse symptoms
 
