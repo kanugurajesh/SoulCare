@@ -54,6 +54,10 @@ With Clerk authentication, data control, and powerful tools, SoulCare is here to
 13. React.js
 14. Fast API
 
+## ▶️ Demo
+
+[![Soulcare](https://img.youtube.com/vi/Pxjc-cyS9SQ/0.jpg)](https://www.youtube.com/watch?v=Pxjc-cyS9SQ)
+
 # Architecture
 
 Figma :- https://www.figma.com/board/qJaNHzZSG67DpXKmUyA18g/Soul-Care?node-id=0-1&node-type=canvas&t=WpnqtOLWCOzR4tnd-0
