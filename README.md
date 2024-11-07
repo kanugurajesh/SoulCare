@@ -37,6 +37,52 @@ SoulCare is a mental health app that leverages advanced NLP to analyze social me
 
 With Clerk authentication, data control, and powerful tools, SoulCare is here to bring you peace of mind and make health and wellness accessible to everyone! ✨
 
+# Environment Variables
+
+### 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SoulCare.git
+   ```
+2. Change the directory
+   ```bash
+   cd SoulCare
+   ```
+3. Add the environment variables in the frontend and backend folder
+
+### Frontend
+
+Adding the below one in the frontend folder in .env.local file
+
+```
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+GEMINI_API_KEY=
+RESEND_API_KEY=
+EMAIL=
+```
+
+### Backend
+
+Add the below one in the backend folder in the .env file
+
+```
+COHERE_API_KEY=
+DATABASE_URL=
+TAVILY_API_KEY=
+```
+
+4. Install the packages in the frontend and backend
+5. Run the frontend
+```
+   cd frontend && npm install
+```
+6. Run the backend server
+```
+cd backend && pip install -r requirements.txt && uvicorn main:app --reload
+```
+
 # Tech Stack
 
 1. Next.js
