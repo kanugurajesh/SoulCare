@@ -12,3 +12,11 @@ The below is the proof that this is my own project which I build from scratch an
 ## SoulCare
 
 SoulCare is a mental health app that leverages advanced NLP to analyze social media sentiment, track health symptoms, and offer real-time support through AI, personalized reports, and a CBT bot. It provides secure authentication, professional resources, and gamified features to enhance user engagement and ensure timely intervention for severe cases. It also provides correct and valid information related to healthcare You can also upload you health documents and query over them as much as needed. You can also upload youtube video and ask questions related to it. It also has a feature which prioritized users based on worse symptoms
+
+# Architecture
+
+Figma :- https://www.figma.com/board/qJaNHzZSG67DpXKmUyA18g/Soul-Care?node-id=0-1&node-type=canvas&t=WpnqtOLWCOzR4tnd-0
+
+# Hackathon Certificate
+
+![vjit](https://github.com/user-attachments/assets/a9bc380b-83d0-4c50-890b-e70bf2e112fc)
